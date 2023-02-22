@@ -6,7 +6,9 @@
 一、随机对称点头像生成：
 
 [随机对称点头像生成代码文件](lib/random_symmetry_point)
-[预览](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZkMmI1MTMwNGViOWJjYWUyODIzMDg0NjQwODEyMmU2N2NmZmYzYiZjdD1n/nsD3Q6qANWTX5SXpm7/giphy.gif)
+
+<left><img src="md_assets/2_1677052315_AdobeExpress.gif" width = "" height = ""></left>
+
 
 二、路径篇 · 数字显示管
 
