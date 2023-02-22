@@ -1,16 +1,8 @@
 # flutter_unit
 
-A new Flutter project.
+跟着掘金大佬[@张风捷特烈](https://juejin.cn/user/149189281194766)
+学习flutter绘制内容，顺便复习巩固老知识点。
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+一、随机对称点头像生成：
+[随机对称点头像生成模块](lib/random_symmetry_point)
