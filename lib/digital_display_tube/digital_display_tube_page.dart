@@ -64,6 +64,7 @@ class _DigitalDisplayTubePageState extends State<DigitalDisplayTubePage> {
   }
 
   _incrementCounter() {
+    HapticFeedback.mediumImpact();
     setState(() {
       _numValue++;
     });
